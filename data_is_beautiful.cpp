@@ -9,8 +9,6 @@ use kazam to record
 
       set kazam for 0 seconds.
 
-      add countdown to this that shows numbers and then blanks screen
-
       start dib, on kazam click "window", then click the window, then watch the countdown and click "capture" a second or so early
 
    file preferences faster framerate?
